@@ -1,0 +1,16 @@
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\real estate management system.exe.config
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\Database1.sdf
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\Database1.mdf
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\Database1_log.ldf
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\real estate management system.exe
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\real estate management system.pdb
+F:\RUTUJA\real estate management system\real estate management system\bin\Debug\real estate management system.xml
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\ResolveAssemblyReference.cache
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real_estate_management_system.Form1.resources
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real_estate_management_system.Frmproptype.resources
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real_estate_management_system.Resources.resources
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real estate management system.vbproj.GenerateResource.Cache
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real estate management system.exe
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real estate management system.xml
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real estate management system.pdb
+F:\RUTUJA\real estate management system\real estate management system\obj\Debug\real_estate_management_system.Frmpropunits.resources
